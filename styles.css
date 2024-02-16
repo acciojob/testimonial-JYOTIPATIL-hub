@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+/* CSS code */
+.main-container {
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.testimonial {
+  padding: 15px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  margin-bottom: 10px;
+}
+
+.text {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+}
+
+.author {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #999;
+  text-align: right;
+  font-style: italic;
+}
+
